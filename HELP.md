@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'br.comluzaraldi.aspects-java-springaop' is invalid and this project uses 'br.comluzaraldi.aspects_java_springaop' instead.
+* The original package name 'br.com.luzaraldi.spring-boot-chat-gpt' is invalid and this project uses 'br.com.luzaraldi.spring_boot_chat_gpt' instead.
 
 # Getting Started
 
@@ -9,8 +9,15 @@ The following was discovered as part of building this project:
 For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
-* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/3.3.3-SNAPSHOT/maven-plugin)
-* [Create an OCI image](https://docs.spring.io/spring-boot/3.3.3-SNAPSHOT/maven-plugin/build-image.html)
+* [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/3.4.0-SNAPSHOT/maven-plugin)
+* [Create an OCI image](https://docs.spring.io/spring-boot/3.4.0-SNAPSHOT/maven-plugin/build-image.html)
+* [Spring Reactive Web](https://docs.spring.io/spring-boot/docs/3.4.0-SNAPSHOT/reference/htmlsingle/index.html#web.reactive)
+* [Spring Boot DevTools](https://docs.spring.io/spring-boot/docs/3.4.0-SNAPSHOT/reference/htmlsingle/index.html#using.devtools)
+
+### Guides
+The following guides illustrate how to use some features concretely:
+
+* [Building a Reactive RESTful Web Service](https://spring.io/guides/gs/reactive-rest-service/)
 
 ### Maven Parent overrides
 
